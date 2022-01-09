@@ -48,7 +48,7 @@ featured: no
 # - name: Custom Link
 #   url: http://example.org
 
-#url_pdf: ''
+url_pdf: 'https://openaccess.thecvf.com/content/CVPR2021/papers/Bai_Person30K_A_Dual-Meta_Generalization_Network_for_Person_Re-Identification_CVPR_2021_paper.pdf'
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
