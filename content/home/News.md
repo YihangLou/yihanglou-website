@@ -13,7 +13,6 @@ design:
 [2021.7], One paper about Re-Identification has been accepted by TPAMI 2021.  
 [2021.6], One paper about Unsupervised Domain Adaptation has been accepted by TIP 2021.  
 [2021.3], One paper about Meta Learning has been accpeted by CVPR 2021.  
-[2020.8], I achieved Outstanding Phd Graduate from Peking University.
 [2020.7], One paper about Video Coding for Machine has been accepted by TMM 2020.  
 [2020.5], One paper about Re-Identification has been accepted by IJCAI 2020.  
 [2019.7], One paper about Model paradigm has been selected as ICME 2019 Best Paper.  
