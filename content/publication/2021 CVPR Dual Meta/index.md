@@ -9,8 +9,7 @@ authors:
 - Jile Jiao
 - Ce Wang
 - Jun Liu
-- Yihang Lou
-- et
+- Yihang Lou, et
 
 # Author notes (optional)
 #author_notes:
@@ -44,9 +43,9 @@ publication_short: In Computer Vision and Pattern Recognition  2021
 featured: no
 
 # Custom links (uncomment lines below)
-links:
- - name: Custom Link
-   url: 'https://openaccess.thecvf.com/content/CVPR2021/papers/Bai_Person30K_A_Dual-Meta_Generalization_Network_for_Person_Re-Identification_CVPR_2021_paper.pdf'
+#links:
+# - name: Custom Link
+#   url: 
 
 url_pdf: 'https://openaccess.thecvf.com/content/CVPR2021/papers/Bai_Person30K_A_Dual-Meta_Generalization_Network_for_Person_Re-Identification_CVPR_2021_paper.pdf'
 # url_code: ''
