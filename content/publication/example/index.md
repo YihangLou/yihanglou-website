@@ -7,8 +7,7 @@ title: "Hierarchical Connectivity-Centered Clustering for Unsupervised Domain Ad
 authors:
 - Yan Bai
 - Ce Wang
-- Yihang Lou
-- et
+- Yihang Lou et al
 
 # Author notes (optional)
 #author_notes:
