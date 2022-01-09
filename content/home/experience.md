@@ -25,9 +25,9 @@ experience:
   - title: Senior Researcher
     company: Huawei
     company_url: ''
-    company_logo: org-gc
+    #company_logo: org-gc
     location: Beijing, China
-    date_start: '2021-08-01'
+    date_start: '2020-08-01'
     date_end: ''
     #description: |2-
     #    Responsibilities include:
