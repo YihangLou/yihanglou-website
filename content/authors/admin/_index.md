@@ -71,4 +71,4 @@ I am now a senior researcher at Huawei Technology, Beijing.  Before that, I did 
 
 My research interests include computer vision, deep learning and mobile computing etc. Specifically, I am actively conducting research on image retrieval (Re-Identification), Transfer Learning, Un/semi-supervised Learning and vision task involved with both low level and high level. I am engaging in applying the leading vision research to improve the intelligence and efficiency of smart city. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
