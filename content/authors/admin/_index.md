@@ -74,4 +74,3 @@ My research interests include computer vision, deep learning and mobile computin
 Email address: yihanglou[at]outlook[dot]com
 Jobs/Intern Opening: Researcher/Engineer in Beijing China.
 
-###{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
